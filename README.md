@@ -13,7 +13,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-LinkedIn: https://www.linkedin.com/in/muhibjabbar/
-Email: muhibjabbar123@gmail.com
-Phone: +447440442291
+<b> LinkedIn: https://www.linkedin.com/in/muhibjabbar </b>
+<b> Email: muhibjabbar123@gmail.com </b>
+<b> Phone: +447440442291 </b>
 
