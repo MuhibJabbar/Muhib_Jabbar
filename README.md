@@ -1,4 +1,4 @@
-<h1>Hi, I'm Muhib! <br/><a href="https://github.com/MuhibJabbar">Data Analyst</a>, <a href="https://www.linkedin.com/in/muhibjabbar/">Data Analyst Professional </a>, <a 
+<h1>Hi, I'm Muhib! <br/><a href="https://github.com/MuhibJabbar"></a>, <a href="https://www.linkedin.com/in/muhibjabbar/">Data Analyst Professional </a>, <a 
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
