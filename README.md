@@ -13,7 +13,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="muhibjabbar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/muhibjabbar/
+LinkedIn: https://www.linkedin.com/in/muhibjabbar/
+Email: muhibjabbar123@gmail.com
+Phone: +447440442291
 
