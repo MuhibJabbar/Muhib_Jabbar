@@ -6,15 +6,21 @@
 
 
 <h2> Skills </h2>
-<h3>
+<h4>
 - Power BI
+  
 - SQL Server
+  
 - Excel
+  
 - Python
+  
 - ETL
+  
 - Data Cleaning
+  
 - Dashboard Design
-</h3>
+</h4>
 
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
