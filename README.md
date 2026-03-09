@@ -1,13 +1,12 @@
 <h1>Hi, I'm Muhib Jabbar! <br/><a href="https://github.com/MuhibJabbar"></a> 
 
-  <a href="https://www.linkedin.com/in/muhibjabbar/">Data Analyst Professional </a>
+  <a href="https://www.linkedin.com/in/muhibjabbar/"> Data Analyst / BI / SQL / Power BI Portfolio </a>
 
-Data Analyst / BI / SQL / Power BI Portfolio
+<h2>I am building projects in Power BI, SQL Server, Excel, and data analytics, with a focus on dashboards, reporting, ETL, and business insights. </h2>
 
-## About Me
-I am building projects in Power BI, SQL Server, Excel, and data analytics, with a focus on dashboards, reporting, ETL, and business insights.
 
-## Skills
+<h2> Skills </h2>
+<h3>
 - Power BI
 - SQL Server
 - Excel
@@ -15,6 +14,8 @@ I am building projects in Power BI, SQL Server, Excel, and data analytics, with 
 - ETL
 - Data Cleaning
 - Dashboard Design
+</h3>
+
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
